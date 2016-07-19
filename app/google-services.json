@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "385207806668",
+    "project_id": "firebase-test-sign-in"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385207806668:android:4824d1ca69e06480",
+        "android_client_info": {
+          "package_name": "app.com.example.hyunjunian.testsign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385207806668-7ciue0ul9gceqg06kn47feg1f4hedt3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.com.example.hyunjunian.testsign_in",
+            "certificate_hash": "687AA843C5182A5461E14F8064E1B85D190F1A6A"
+          }
+        },
+        {
+          "client_id": "385207806668-797m5m1jfn5iqjvjtq0888nldttlrs16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjUZGp5numn6wpEYiksefWv6TR2p_a6I4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
